@@ -1,2 +1,10 @@
-# twinkcalculator
-A very, very, VERY basic python script that calculates how much of a twink you are based on gayness, height and weight.
+  _______       _       _          _____      _            _       _             
+ |__   __|     (_)     | |        / ____|    | |          | |     | |            
+    | |_      ___ _ __ | | __    | |     __ _| | ___ _   _| | __ _| |_ ___  _ __ 
+    | \ \ /\ / / | '_ \| |/ /    | |    / _` | |/ __| | | | |/ _` | __/ _ \| '__|
+    | |\ V  V /| | | | |   <     | |___| (_| | | (__| |_| | | (_| | || (_) | |   
+    |_| \_/\_/ |_|_| |_|_|\_\     \_____\__,_|_|\___|\__,_|_|\__,_|\__\___/|_|   
+                                                                                 
+
+A very, very, VERY basic python script that calculates how much of a twink you are based on height, weight and gayness.
+:3
